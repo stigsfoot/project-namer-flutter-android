@@ -1,0 +1,6 @@
+package com.sandbox.project_namer
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
